@@ -1,1 +1,3 @@
-getgenv().SCRIPT_ID="0a87FdS2XCz6WI82";loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5bcf3fe96a7f433777e8ee45b6aa0bd5.lua"))()
+
+
+getgenv().SCRIPT_ID="t7DqM2ySgZ63LVVt";loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5bcf3fe96a7f433777e8ee45b6aa0bd5.lua"))()
